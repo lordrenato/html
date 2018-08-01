@@ -1,0 +1,20 @@
+h2 {
+color: blue;
+text-decoration: underline;
+}
+
+.eu1 {
+width: 300px;
+padding: 50px;
+}
+
+body {
+ background-color: silver;
+}
+
+.box {
+  width: 445px;
+  height: 30px;
+  background-color: blue;
+  text-decoration: underline;
+}
